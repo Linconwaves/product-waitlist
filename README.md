@@ -2,7 +2,7 @@
 
 A beautiful, production-ready waitlist and admin dashboard built with Next.js 13, Tailwind CSS, and shadcn/ui. Created by the Linconwaves team for developers.
 
-![Product Waitlist Preview](https://images.pexels.com/photos/8439097/pexels-photo-8439097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Product Waitlist Preview](https://cdn.linconwaves.com/linconwaves/product-waitlist/landing.png)
 
 ## Features
 
